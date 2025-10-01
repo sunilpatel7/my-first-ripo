@@ -1,2 +1,2 @@
 # my-first-ripo
-i am a begginer.
+i am a begginer..
